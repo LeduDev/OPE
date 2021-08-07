@@ -4,7 +4,7 @@
 Projeto do jogo **Defenda a Festa de Iemanjá** desenvolvido durante o terceiro e o quarto semeste para a Projetos para Empresas (OPE) da Faculdade Impacta Tecnologia/2020.
 
 #### 📝 Sobre o jogo: <br>
-Proteja e gerencie a Festa de Iemanjá um dos maiores eventos religiosos da cultura Afro-Brasileira.
+Proteja e gerencie a Festa de Iemanjá um dos maiores eventos religiosos da cultura Afro-Brasileira. <br>
 O jogo de caráter educativo “Defenda a Festa de Iemanjá” mostra aos jogadores de forma lúdica e informativa uma das maiores manifestações religiosas afro-brasileiras do Brasil. O jogador é selecionado para organizar a festa de devoção das religiões de matrizes africanas Umbanda e Candomblé, à Deusa da fertilidade e dos Oceanos, a Iemanjá. Nessa festa conhecida como Festa de Iemanjá, ele será o responsável por gerir recursos agradando tanto a Orixá como aos seus fiéis e aos curiosos que querem conhecer mais dessa cultura, e ao mesmo tempo reeducar os preconceituosos que tentarão destruir o evento.
 
 #### 🎮 Controles: <br>
