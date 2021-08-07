@@ -1,12 +1,18 @@
 fileFormatVersion: 2
 guid: c82454b85151bff478094513c1425301
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: QuadradoScore_0
-    21300002: QuadradoScore_1
-    21300004: QuadradoScore_2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: QuadradoScore_0
+  - first:
+      213: 21300002
+    second: QuadradoScore_1
+  - first:
+      213: 21300004
+    second: QuadradoScore_2
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -60,8 +66,9 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -72,7 +79,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -83,6 +91,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -102,6 +111,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d4f5297a9037a254a93987afc614c920
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -122,6 +132,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b1a80a3ca68c2374489240ab0bde0df6
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -142,6 +153,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fc1344b5429e4cb4c8f35084ad08135d
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -150,10 +162,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 14048d763f377954a927ffaf7e989f51
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
