@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 740046a79827a9c45930b5651e63ea25, type: 3}
+  m_Name: devoto9
+  m_EditorClassIdentifier: 
+  visitorName: devoto9
+  sprite: {fileID: 21300000, guid: e54831f5420d955459a9d87c832b8599, type: 3}
+  visitorAnimControl: {fileID: 9100000, guid: 815c94797b1aaac44bfc290eb2413626, type: 2}

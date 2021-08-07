@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f5783d7c6e528408c0864b801f2957, type: 3}
+  m_Name: Candomble
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 21300000, guid: b7edd722a4f23e94bb0df51fcb4117bc, type: 3}
+  itemName:
+  - "CANDOMBL\xC9"
+  - "CANDOMBL\xC9"
+  itemDescription:
+  - "Religi\xE3o Afro-Brasileira que segue as leis da natureza e as suas divindades:
+    Orix\xE1s (Divindade Africana), que possuem o papel de cuidar e equilibrar as
+    nossas energias (ax\xE9). A celebra\xE7\xE3o a Iemanj\xE1 acontece no dia 2 de
+    Fevereiro em praias.\u200B"
+  - "Afro-Brazilian religion that follows the laws of nature and their deities: Orix\xE1s
+    (African Deity), who have the role of caring for and balancing our energies (ax\xE9).
+    The celebration for Iemanj\xE1 takes place on February 2nd on beaches."
+  howToUnlock:
+  - "Ven\xE7a a partida com 6 instala\xE7\xF5es montadas ou mais para desbloquear
+    este item."
+  - Win the match with 6 or more installed installations to unlock this item.
+  unlocked: 1

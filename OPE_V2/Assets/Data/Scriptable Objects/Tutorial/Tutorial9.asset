@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adbcf01a4a78b9e44a088714db6e2f6a, type: 3}
+  m_Name: Tutorial9
+  m_EditorClassIdentifier: 
+  tutorialImage: {fileID: 21300000, guid: 9f280ddc3b01a0141a0a6653ac94a3dd, type: 3}
+  tutorialTitle:
+  - VISITANTES
+  - VISITORS
+  tutorialInstructions:
+  - "Eles v\xE3o surgindo na festa conforme as instala\xE7\xF5es v\xE3o sendo constru\xEDdas
+    e em algum momento pedem para serem levados at\xE9 uma delas. (fique de olho na
+    cor do bal\xE3o do pedido que se assemelha ao da placa da instala\xE7\xE3o) Caso
+    voc\xEA os leve at\xE9 a instala\xE7\xE3o correta, a satisfa\xE7\xE3o referente
+    a ela ir\xE1 aumentar, caso seja incorreta ou se passe muito tempo ap\xF3s o pedido
+    ela vai diminuir."
+  - They appear at the party as the installations are being built and at some point
+    ask to be taken to one of them. (keep an eye on the color of the order balloon
+    that resembles that of the installation plate) If you take them to the correct
+    installation, the satisfaction regarding it will increase, if it is incorrect
+    or if a long time passes after the order it will decrease.

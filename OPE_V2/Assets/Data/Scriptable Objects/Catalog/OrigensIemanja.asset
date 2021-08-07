@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f5783d7c6e528408c0864b801f2957, type: 3}
+  m_Name: OrigensIemanja
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 21300000, guid: 2238de0707505094bb42c3a9adf493d7, type: 3}
+  itemName:
+  - "ORIGENS DE IEMANJ\xC1\u200B"
+  - "ORIGINS OF IEMANJ\xC1"
+  itemDescription:
+  - "No continente africano ela era cultuada pelos egb\xE1, na\xE7\xE3o Iorub\xE1,
+    l\xE1 era a deusa do rio mas ao ser trazida para o Brasil pelo povo africano,
+    ela se tornou a deusa do mar.\u200B"
+  - "On the African continent, she was worshiped by the egb\xE1, the Yoruba nation,
+    where she was the goddess of the river but when she was brought to Brazil by the
+    African people, she became the goddess of the sea."
+  howToUnlock:
+  - "Termine a partida ap\xF3s chegar at\xE9 o grupo de intolerantes 6 ou maior para
+    desbloquear este item."
+  - End the match after reaching the intolerants group 6 or higher to unlock this
+    item.
+  unlocked: 1

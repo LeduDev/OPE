@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adbcf01a4a78b9e44a088714db6e2f6a, type: 3}
+  m_Name: Tutorial6
+  m_EditorClassIdentifier: 
+  tutorialImage: {fileID: 21300000, guid: 2b64739f9207365428e86e8654389470, type: 3}
+  tutorialTitle:
+  - "OP\xC7\xD5ES DA INSTALA\xC7\xC3O"
+  - INSTALLATION OPTIONS
+  tutorialInstructions:
+  - "Ao clicar sobre a instala\xE7\xE3o alguns \xEDcones de op\xE7\xF5es s\xE3o exibidos.
+    O Charme pode ser usado quando a instala\xE7\xE3o possui energia e ativa uma habilidade
+    \xFAnica para cada instala\xE7\xE3o, enquanto drena a sua barra de energia. O
+    efeito acaba quando a barra se esgota. Voc\xEA pode clicar no \xEDcone novamente
+    para encerrar a habilidade antecipadamente. O Reparar restaura parte da durabilidade
+    da instala\xE7\xE3o e s\xF3 pode ser usada uma vez por instala\xE7\xE3o. E o Remover
+    retira a instala\xE7\xE3o do local e retorna a sua \xE1rea de constru\xE7\xE3o."
+  - When clicking on the installation some option icons are displayed. Charm can be
+    used when the facility has energy and activates a unique ability for each facility
+    while draining its energy bar. The effect ends when the bar runs out. You can
+    click the icon again to end the ability in advance. Repair restores part of the
+    installation's durability and can only be used once per installation. And Remove
+    removes the installation from the site and returns to its construction area.

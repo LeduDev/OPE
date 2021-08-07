@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adbcf01a4a78b9e44a088714db6e2f6a, type: 3}
+  m_Name: Tutorial3
+  m_EditorClassIdentifier: 
+  tutorialImage: {fileID: 21300000, guid: eeea9eb48e6fe3c4488634b8f3fa0f0f, type: 3}
+  tutorialTitle:
+  - TIPOS DE CARTAS
+  - CARD TYPES
+  tutorialInstructions:
+  - "As cartas possuem diferentes tipos e cada tipo deve ser jogado sobre um elemento
+    diferente, sendo as instala\xE7\xF5es sobre as \xE1reas de constru\xE7\xE3o, as
+    oferendas sobre a est\xE1tua de Iemanj\xE1 e os lixos sobre as lixeiras. Cartas
+    de instala\xE7\xE3o possuem um custo para serem jogadas."
+  - "The cards have different types and each type must be played on a different element,
+    being the installations on the construction areas, the offerings on the statue
+    of Iemanj\xE1 and the garbage on the trash can. Installation cards have a cost
+    to be played."

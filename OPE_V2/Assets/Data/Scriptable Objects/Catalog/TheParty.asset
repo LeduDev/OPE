@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f5783d7c6e528408c0864b801f2957, type: 3}
+  m_Name: TheParty
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 21300000, guid: cd79fd8bfd53cd64480ea38e2cc3f0aa, type: 3}
+  itemName:
+  - "A FESTA\u200B"
+  - THE PARTY
+  itemDescription:
+  - "O evento de celebra\xE7\xE3o foi criado na esperan\xE7a de agradarem a Iemanj\xE1
+    para que ela os possa aben\xE7oar cada vez mais.\u200B"
+  - "The celebration event was created in the hope of pleasing Iemanj\xE1 so that
+    she can bless them more and more."
+  howToUnlock:
+  - "Termine a partida com a satisfa\xE7\xE3o em recrea\xE7\xE3o cheia para desbloquear
+    este item."
+  - End the match with the recreation satisfaction full to unlock this item.
+  unlocked: 1

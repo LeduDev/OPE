@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f5783d7c6e528408c0864b801f2957, type: 3}
+  m_Name: Offerings
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 21300000, guid: 74aefec3571406b4ba6e7275d306cad2, type: 3}
+  itemName:
+  - "OFERENDAS\u200B"
+  - OFFERINGS
+  itemDescription:
+  - "Fazem oferendas com espelhos, sabonetes, perfumes, pentes, entre outros itens,
+    que s\xE3o enviados ao mar atrav\xE9s de uma barca que \xE9 levada pelos pescadores.\u200B"
+  - They make offerings with mirrors, soaps, perfumes, combs, among other items, which
+    are sent to the sea through a boat that is taken by fishermen.
+  howToUnlock:
+  - "Termine a partida ap\xF3s usar a manifesta\xE7\xE3o B\xEAn\xE7\xE3o das \xE1guas
+    para desbloquear este item."
+  - End the match after using the Blessing of the Waters manifestation to unlock this
+    item.
+  unlocked: 1

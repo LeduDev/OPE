@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95495daffa92d8c47824811ad3e8ce47, type: 3}
+  m_Name: Portuguese
+  m_EditorClassIdentifier: 
+  skipBtnText: PULAR
+  clickToContinueMessage: Clique em qualquer lugar para continuar
+  clickMessage: Pressione para continuar
+  welcomeMessage: "\u201CNingu\xE9m nasce odiando outra pessoa por causa da cor de
+    sua pele, ou de sua origem, ou de sua religi\xE3o. As pessoas devem aprender a
+    odiar e, se podem aprender a odiar, podem ser ensinadas a amar, pois o amor vem
+    mais naturalmente para o cora\xE7\xE3o humano do que seu oposto.\u201D - Nelson
+    Mandela"
+  play: JOGAR
+  howToPlay: COMO JOGAR
+  credits: "CR\xC9DITOS"
+  aboutGame: SOBRE O JOGO
+  catalog: "CAT\xC1LOGO"
+  configurations: "CONFIGURA\xC7\xD5ES"
+  quit: SAIR
+  creditsText: "Ol\xE1! Somos a \u201CLula Make Game\u201D, equipe composta pela dupla
+    de alunos Luiz Eduardo \u201CLedu\u201D da Silva Barbosa (Programa\xE7\xE3o, Level
+    Designer e Game Designer) e Larissa \u201CMewmew\u201D Cristina Benedito (Arte,
+    UX/UI Design e Game Designer) e o jogo educativo \u201CDefenda a Festa de Iemanj\xE1\u201D
+    \xE9 o nosso projeto para a OPE - Oficina Projeto Empresa da Faculdade Impacta
+    Tecnologia durante o ano letivo de 2020.\u200B\r\n\r\nEsse foi um ano dif\xEDcil,
+    e somos gratos por podermos contar com o apoio dos professores do curso Tecn\xF3logo
+    em Jogos Digitais da Faculdade Impacta Tecnologia, e gostar\xEDamos de agradecer
+    especialmente ao coordenador Prof. Me. Alan Henrique Pardo Carvalho pelo seu empenho
+    na melhoria da educa\xE7\xE3o na \xE1rea de Jogos Digitais e aos nossos orientadores
+    Prof. Dr. Fabiano Alves On\xE7a e Prof. Me. Alvaro Gabriele Bento Rodrigues Junior
+    por terem nos incentivado a continuar desenvolvendo o projeto em meio ao caos
+    pand\xEAmico causado pela Covid-19.\r\n\r\nAs trilhas e efeitos sonoros n\xE3o
+    s\xE3o de nossa autoria e foram disponibilizadas gratuitamente para uso atrav\xE9s
+    da licen\xE7a Creative Commons, por isso agradecemos e deixamos aqui os devidos
+    cr\xE9ditos aos compositores: Airtone, HollandFord143, JomelleJager, DExUS5, MATTIX,
+    David Fesliyan/Fesliyan Studios, Breviceps, dobroide, jayfrosting, peridactyloptrix,
+    shinephoenixstormcrow, LittleRobotSoundFactory e qubodup. Dentro da pasta do jogo
+    est\xE1 dispon\xEDvel um documento com mais detalhes sobre os compositores com
+    links para suas respectivas p\xE1ginas.\r\n\nObrigado por jogar!"
+  ConfTitleText: "CONFIGURA\xC7\xD5ES"
+  musicConfText: "M\xFAsica"
+  soundConfText: Sons
+  chooseLangText: Escolha um idioma
+  configBackText: VOLTAR
+  resetGameBtnText: RESETAR JOGO
+  resumeBtnTxt: CONTINUAR
+  catalogBtnTxt: "CAT\xC1LOGO"
+  tutorialBtnTxt: TUTORIAL
+  restartBtnTxt: "RECOME\xC7AR"
+  mainMenuBtnTxt: MENU PRINCIPAL
+  settingBtnTxt: CONFIGURAR
+  wavesTxt: Grupo de Intolerantes
+  intolerantsTxt: Intolerantes
+  eventResultsTitleTxt: RESULTADOS DO EVENTO
+  offeringsMadeTxt: Oferendas realizadas
+  consciousIntolerantsTxt: Intolerantes conscientizados
+  discardedGarbageTxt: Lixo descartado
+  attendedVisitorsTxt: Visitantes Atendidos
+  statueDamageTxt: "Dano sofrido pela est\xE1tua"
+  finalScoreTxt: "PONTUA\xC7\xC3O FINAL"
+  bestScoreTxt: "MELHOR PONTUA\xC7\xC3O"
+  playAgainTxt: JOGAR NOVAMENTE
+  curiosityMessageTxt:
+  - "Os rios e mares s\xE3o associados a divindades femininas e a terra a divindades
+    masculinas.\u200B"
+  - "A festa de Iemanj\xE1 \xE9 festejada no dia 2 de fevereiro pelos praticantes
+    do candombl\xE9 e no dia 15 de agosto pelos umbandistas, \xE9 celebrada tamb\xE9m
+    no ano novo.\u200B"
+  - "A mitologia sobre a Iemanj\xE1 \xE9 transmitida pela tradi\xE7\xE3o oral.\u200B"
+  - "Todas as pessoas devem ser aceitas do jeito que s\xE3o, pois as suas qualidades
+    e os seus defeitos s\xE3o herdados de seu orix\xE1.\u200B"
+  - "Na Umbanda a Iemanj\xE1 possui fei\xE7\xF5es suaves e a pele branca parecida
+    com a da Nossa Senhora dos cat\xF3licos.\u200B"
+  - "No Candombl\xE9 a Iemanj\xE1 possui tra\xE7os fortes, pele escura e curvas arredondadas.\u200B"
+  - "Iemanj\xE1 possui v\xE1rios nomes como Janaina, Rainha do Mar, Maria, M\xE3e
+    Sereia e etc.\u200B"
+  - "A Iemanj\xE1 \xE9 a Orix\xE1 feminina mais conhecida do Brasil.\u200B"

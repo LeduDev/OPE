@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a114a1eaa3cb854b9f8500b019fa58f, type: 3}
+  m_Name: Troublemaker
+  m_EditorClassIdentifier: 
+  enemyName: Barraqueira
+  life: 18
+  power: 0.8
+  resistance: 0
+  movSpeed: 2
+  atkSpeed: 0.5
+  enemyBehavior: 1
+  attackChance: 60
+  sprite: {fileID: 21300000, guid: ca50f1fd2ff44e442940732201846c4b, type: 3}
+  movAnimController: {fileID: 9100000, guid: e5d82fde878246049a5b5878de4131bd, type: 2}
+  atkAnimController: {fileID: 9100000, guid: 6fe76eca7047d78418aab82a9b872bb4, type: 2}

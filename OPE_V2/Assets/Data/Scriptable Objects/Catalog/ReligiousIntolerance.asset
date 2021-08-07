@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f5783d7c6e528408c0864b801f2957, type: 3}
+  m_Name: ReligiousIntolerance
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 21300000, guid: bb63f52b1a2f6ce439822baecfdb8c4c, type: 3}
+  itemName:
+  - "INTOLER\xC2NCIA RELIGIOSA\u200B"
+  - RELIGIOUS INTOLERANCE
+  itemDescription:
+  - "Os adeptos de religi\xF5es de matrizes africanas, s\xE3o alvos constantes de
+    intoler\xE2ncia religiosa. T\xEAm os seus terreiros invadidos, destru\xEDdos e
+    celebra\xE7\xF5es interrompidas com atos de viol\xEAncia.\u200B"
+  - Adherents of religions of African origin are constant targets of religious intolerance.
+    Their terreiros have been invaded, destroyed and celebrations interrupted with
+    acts of violence.
+  howToUnlock:
+  - "Ven\xE7a a partida sem a est\xE1tua de Iemanj\xE1 levar dano para desbloquear
+    este item."
+  - "Win the match without the statue of Iemanj\xE1 taking damage to unlock this item."
+  unlocked: 1

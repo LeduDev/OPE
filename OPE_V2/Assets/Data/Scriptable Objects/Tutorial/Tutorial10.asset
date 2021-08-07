@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adbcf01a4a78b9e44a088714db6e2f6a, type: 3}
+  m_Name: Tutorial10
+  m_EditorClassIdentifier: 
+  tutorialImage: {fileID: 21300000, guid: 5c8fe99f85f0bea43b4480439f0dfbb2, type: 3}
+  tutorialTitle:
+  - GRUPOS DE INTOLERANTES
+  - INTOLERANTS GROUPS
+  tutorialInstructions:
+  - "Quando o temporizador chegar \xE0 0 um novo grupo de intolerantes chegar\xE1
+    \xE0 festa a partir das extremidades dos caminhos e se mover\xE3o em dire\xE7\xE3o
+    a est\xE1tua de Iemanj\xE1. Chegando l\xE1 eles ir\xE3o atac\xE1-la at\xE9 que
+    seja destru\xEDda, e se isso acontecer voc\xEA ser\xE1 derrotado! Alguns ainda
+    tentar\xE3o atacar as pr\xF3prias instala\xE7\xF5es culturais pelo caminho. Se
+    seu preconceito se esgotar, o intolerante \xE9 conscientizado e para de atacar.
+    Voc\xEA vence quando todos os grupos de intolerantes forem conscientizados. (\xC9
+    poss\xEDvel clicar no temporizador para zer\xE1-lo instantaneamente e ganhar um
+    b\xF4nus de ax\xE9!)"
+  - "When the timer reaches 0 a new group of intolerants will arrive at the party
+    from the ends of the paths and will move towards the statue of Iemanj\xE1. Once
+    there, they will attack it until it is destroyed, and if that happens you will
+    be defeated! Some will even try to attack the cultural installations themselves
+    along the way. If their prejudice runs out, the intolerant becomes conscious and
+    stops attacking. You win when all groups of intolerants are made conscientious.
+    (You can click on the timer to set it to zero and get bonus ax\xE9!)"

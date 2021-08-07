@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adbcf01a4a78b9e44a088714db6e2f6a, type: 3}
+  m_Name: Turorial1
+  m_EditorClassIdentifier: 
+  tutorialImage: {fileID: 21300000, guid: 4a720abb583e13f41b937e564ea0fd00, type: 3}
+  tutorialTitle:
+  - CONTROLE
+  - CONTROLLER
+  tutorialInstructions:
+  - "O \xFAnico controle usado no jogo \xE9 o mouse. Clique com o bot\xE3o esquerdo
+    para interagir. Em alguns casos \xE9 poss\xEDvel segurar o bot\xE3o e ent\xE3o
+    mover o ponteiro para arrastar determinados elementos do cen\xE1rio."
+  - The only controller used in the game is the mouse. Left-click to interact. In
+    some cases it is possible to hold down the button and then move the pointer to
+    drag certain elements of the scene.

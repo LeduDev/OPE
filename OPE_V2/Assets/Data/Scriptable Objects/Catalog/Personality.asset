@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f5783d7c6e528408c0864b801f2957, type: 3}
+  m_Name: Personality
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 21300000, guid: 26a1c2e00aa85fe42b79c72dd78433e4, type: 3}
+  itemName:
+  - "PERSONALIDADE\u200B"
+  - PERSONALITY
+  itemDescription:
+  - "Iemanj\xE1, acolhe a todos que lhe pedem ajuda, sem julgar nem minimizar a dor
+    de ningu\xE9m.  Ela \xE9 considerada tamb\xE9m a Deusa da Compaix\xE3o.\u200B"
+  - "Iemanj\xE1 welcomes everyone who asks for help, without judging or minimizing
+    anyone's pain. She is also considered the Goddess of Compassion."
+  howToUnlock:
+  - "Ven\xE7a uma partida para desbloquear este item."
+  - Win a match to unlock this item.
+  unlocked: 0

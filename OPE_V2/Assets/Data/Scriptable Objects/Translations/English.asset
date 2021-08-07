@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95495daffa92d8c47824811ad3e8ce47, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  skipBtnText: SKIP
+  clickToContinueMessage: Click anywhere to continue
+  clickMessage: Press to continue
+  welcomeMessage: "\u201CNo one is born hating another person because of the color
+    of his skin, or his background, or his religion. People must learn to hate, and
+    if they can learn to hate, they can be taught to love, for love comes more naturally
+    to the human heart than its opposite.\u201D - Nelson Mandela"
+  play: PLAY
+  howToPlay: HOW TO PLAY
+  credits: CREDITS
+  aboutGame: ABOUT THE GAME
+  catalog: CATALOG
+  configurations: SETTINGS
+  quit: QUIT
+  creditsText: "Hi! We are the \u201CLula Make Game\u201D, a team composed of the
+    students Luiz Eduardo \u201CLedu\u201D da Silva Barbosa (Programming, Level Designer
+    and Game Designer) and Larissa \u201CMewmew\u201D Cristina Benedito (Art, UX /
+    UI Design and Game Designer) and the educational game \u201CDefenda a Festa de
+    Iemanj\xE1\u201D (Defend the Iemanj\xE1's Party) is our project for OPE - Oficina
+    Projeto Empresa (Enterprise Project Workshop) from college Faculdade Impacta Tecnologia
+    during the academic year 2020.\r\n\r\nThis was a difficult year, and we are grateful
+    to be able to count on the support of the professors of the technologist course
+    in Digital Games at the college Faculdade Impacta Tecnologia, and we would like
+    to especially thank the coordinator Prof. M.Sc. Alan Henrique Pardo Carvalho for
+    his commitment to improving education in the area of \u200B\u200BDigital Games
+    and to our advisors Prof. Dr. Fabiano Alves On\xE7a and Prof. M.Sc. Alvaro Gabriele
+    Bento Rodrigues Junior for encouraging us to continue developing the project in
+    the midst of the pandemic chaos caused by Covid-19.\r\n\r\nThe tracks and sound
+    effects are not of our own and were made available for free under the Creative
+    Commons license, so we thank and leave here the due credits to the composers:
+    Airtone, HollandFord143, JomelleJager, DExUS5, MATTIX, David Fesliyan/Fesliyan
+    Studios, Breviceps, dobroide, jayfrosting, peridactyloptrix, shinephoenixstormcrow,
+    LittleRobotSoundFactory and qubodup. Within the game folder there is a document
+    with more details about the composers with links to their respective pages.\r\n\nThank
+    you for playing!"
+  ConfTitleText: SETTINGS
+  musicConfText: Music
+  soundConfText: Sounds
+  chooseLangText: Choose a language
+  configBackText: BACK
+  resetGameBtnText: RESET GAME
+  resumeBtnTxt: RESUME
+  catalogBtnTxt: CATALOG
+  tutorialBtnTxt: TUTORIAL
+  restartBtnTxt: RESTART
+  mainMenuBtnTxt: MAIN MENU
+  settingBtnTxt: SETTINGS
+  wavesTxt: Intolerants Group
+  intolerantsTxt: Intolerants
+  eventResultsTitleTxt: EVENT RESULTS
+  offeringsMadeTxt: Offerings made
+  consciousIntolerantsTxt: Conscious intolerants
+  discardedGarbageTxt: Discarded garbage
+  attendedVisitorsTxt: Attended visitors
+  statueDamageTxt: Damage suffered by the statue
+  finalScoreTxt: FINAL SCORE
+  bestScoreTxt: BEST SCORE
+  playAgainTxt: PLAY AGAIN
+  curiosityMessageTxt:
+  - Rivers and seas are associated with female deities and the land with male deities.
+  - "The Iemanj\xE1 party is celebrated on February 2 by Candombl\xE9 practitioners
+    and on August 15 by Umbanda practitioners, it is also celebrated in the new year."
+  - "The mythology about Iemanj\xE1 is transmitted by oral tradition."
+  - "All people must be accepted as they are, as their qualities and defects are inherited
+    from their orix\xE1."
+  - "In Umbanda, Iemanj\xE1 has smooth features and white skin similar to that of
+    Our Lady of Catholics."
+  - "In Candombl\xE9, Iemanj\xE1 has strong features, dark skin and rounded curves."
+  - "Iemanj\xE1 has several names like Janaina, Rainha do Mar (Queen of sea), Maria,
+    M\xE3e Sereia (Mermaid Mother), etc."
+  - "Iemanj\xE1 is the best known female Orix\xE1 in Brazil."

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adbcf01a4a78b9e44a088714db6e2f6a, type: 3}
+  m_Name: Tutorial12
+  m_EditorClassIdentifier: 
+  tutorialImage: {fileID: 21300000, guid: 2945082be67d0554cb3fedfc6f9e285a, type: 3}
+  tutorialTitle:
+  - RESULTADO FINAL
+  - FINAL RESULT
+  tutorialInstructions:
+  - "Suas a\xE7\xF5es ir\xE3o influenciar no resultado do evento, gerando uma pontua\xE7\xE3o
+    final. Sua melhor pontua\xE7\xE3o ser\xE1 salva e exibida ao fim de cada partida.
+    Dependendo do seu desempenho, voc\xEA tamb\xE9m pode desbloquear itens do cat\xE1logo
+    cultural que podem ser acessados \u200B\u200Bpelo menu principal ou de pausa."
+  - Your actions will influence the outcome of the event, generating a final score.
+    Your best score will be saved and displayed at the end of each match. Depending
+    on your performance, you can also unlock items in the cultural catalog that can
+    be accessed through the main or pause menu.

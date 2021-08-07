@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f5783d7c6e528408c0864b801f2957, type: 3}
+  m_Name: Iemanja
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 21300000, guid: 34dd1b961f35b61469d70deb3ce121f1, type: 3}
+  itemName:
+  - "IEMANJ\xC1"
+  - "IEMANJ\xC1"
+  itemDescription:
+  - "\xC9 uma divindade de origem africana, ela \xE9 a deusa d'\xE1guas, seja a do
+    mar, ou a dos rios. O seu nome deriva da express\xE3o \u201CYey\xE9 Om\xF3 Ej\xE1\u201D
+    , que significa, m\xE3e cujo os filhos s\xE3o peixes.\u200B"
+  - "Is a deity of African origin, she is the goddess of water, whether that of the
+    sea or that of rivers. Her name derives from the expression \u201CYey\xE9 Om\xF3
+    Ej\xE1\u201D, which means, mother whose children are fishes."
+  howToUnlock:
+  - Inicie o jogo para desbloquear este item.
+  - Start the game to unlock this item.
+  unlocked: 1

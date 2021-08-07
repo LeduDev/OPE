@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adbcf01a4a78b9e44a088714db6e2f6a, type: 3}
+  m_Name: Tutorial11
+  m_EditorClassIdentifier: 
+  tutorialImage: {fileID: 21300000, guid: f474fc40179ffeb4989919318bd5bda7, type: 3}
+  tutorialTitle:
+  - "MANIFESTA\xC7\xD5ES DE IEMANJ\xC1"
+  - "IEMANJ\xC1'S MANIFESTATIONS"
+  tutorialInstructions:
+  - "S\xE3o demonstra\xE7\xF5es dos poderes da orix\xE1 e s\xE3o desbloqueados conforme
+    a satisfa\xE7\xE3o dela aumenta. Precisam de ax\xE9 para serem usados e possuem
+    um tempo de recarga antes de poderem ser usados novamente. Seus efeitos s\xE3o:
+    Amor da Grande M\xE3e: Todos os visitantes pedem por amor, podendo ser atendido
+    em qualquer instala\xE7\xE3o e aumentando sua satisfa\xE7\xE3o se o fizer. B\xEAn\xE7\xE3o
+    das \xC1guas: Restaura completamente a durabilidade de todas as instala\xE7\xF5es.
+    Purifica\xE7\xE3o do Ori: Todos os intolerantes na festa s\xE3o instantaneamente
+    conscientizados."
+  - "They are demonstrations of the powers of the orix\xE1 and are unlocked as her
+    satisfaction increases. They need ax\xE9 to be used and have a recharge time before
+    they can be used again. Its effects are: Love of the Great Mother: All visitors
+    ask for love, being able to be attended in any installation, and increasing their
+    satisfaction if you do. Blessing of the Waters: Completely restores the durability
+    of all installations. Purification of Ori: All intolerants at the party become
+    conscious instantly."
