@@ -10,13 +10,11 @@ O jogo de caráter educativo “Defenda a Festa de Iemanjá” mostra aos jogado
 #### 🎮 Controles: <br>
 Utilize um mouse para controlar o cursor, e interaja clicando com o botão esquerdo.
 
-#### Screens:
-![6DZgTW](https://user-images.githubusercontent.com/50052600/128608712-9a6c9d0f-4797-49ed-8692-092861ee3ce8.jpeg)
-![+p7SXq](https://user-images.githubusercontent.com/50052600/128608714-bbf4a510-1c4d-4544-a29a-d0e2bb361a1e.jpeg)
-![O4DoaV](https://user-images.githubusercontent.com/50052600/128608719-07f81edf-fd9a-4c05-8311-f00bdbac13c8.png)
+#### Trailer - Defenda a Festa de Iemanjá :
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-2kWe_iJ-Sk/sddefault.jpg)](https://www.youtube.com/watch?v=-2kWe_iJ-Sk)
 
 
-**Play Now: [Defenda a Festa de Iemanja](https://lula-make-game.itch.io/defenda-a-festa-de-iemanja)**
+**Jogue agora: [Defenda a Festa de Iemanja](https://lula-make-game.itch.io/defenda-a-festa-de-iemanja)**
 
 <p align="center"> Developed with 💜 by LulaMakeGame
  </p>
