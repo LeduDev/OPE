@@ -14,7 +14,7 @@ Utilize um mouse para controlar o cursor, e interaja clicando com o botão esque
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-2kWe_iJ-Sk/sddefault.jpg)](https://www.youtube.com/watch?v=-2kWe_iJ-Sk)
 
 
-**Jogue agora: [Defenda a Festa de Iemanja](https://lula-make-game.itch.io/defenda-a-festa-de-iemanja)**
+<p align="center"> **Jogue agora: [Defenda a Festa de Iemanja](https://lula-make-game.itch.io/defenda-a-festa-de-iemanja)** </center>
 
 <p align="center"> Developed with 💜 by LulaMakeGame
  </p>
